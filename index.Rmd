@@ -1,0 +1,247 @@
+---
+title: "2019第一次线上预注册工作坊"
+output: 
+  revealjs::revealjs_presentation:
+    transition: none
+    center: true
+    width: "100%"
+    height: "100%"
+    margin: 0
+    minScale: 1
+    maxScale: 1
+    incremental: true
+css: style.css
+theme: cerulean
+---
+
+# About this workshop </br> 关于工作坊 {data-background=#f2f6f5}
+
+## {data-background=#f2f6f5}
+
+- Broadcasting channel 网路直播网址
+- Code of Conduct 活动守则
+
+# About me </br> 关于我  {data-background=#f2f6f5}
+
+##  {data-background=#f2f6f5}
+
+Sau-Chin Chen </br>
+<small>Associate professor, Department of Human Development and Psychology</small> </br>
+<small>Tzu-Chi University</small>
+
+<img src="https://osf.io/static/img/circle_logo.png"  height="20" width="20"> <small>Center for Open Science, Ambassador</small></br>
+<img src="https://psysciacc.files.wordpress.com/2017/10/cropped-cropped-psa.png"  height="20" width="20">
+<small>Psychological Science Accelerator, Fellow, Assistant Director</small></br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Website11.png"  height="20" width="20"> [<small>scchen.com</small>](http://scchen.com)
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<small>[Fork my slides on Github](https://github.com/SCgeeker/)</small>
+
+## Primary Source </br> 主要资讯来源 {data-background=#f2f6f5}
+
+>- COS: Jolene Esposito, Sara Bowman
+>- Cardiff University: [Chris Chambers](https://osf.io/d4fh5/)
+
+
+# Why Preregister </br> 为何需要预注册 {data-background=#f2f6f5}
+
+## {data-background=#f2f6f5}
+
+- 身为学术工作者，与生涯发展最有关系的论文内容是什么？
+  - 结果
+- 身为科研人员，研究论文的那个部分最不受控制？
+  - 结果
+
+<font size="4"> Source: [Chris Chambers](https://osf.io/d4fh5/), Cardiff U.</font>
+
+## {data-background=#f2f6f5}
+
+![](./includes/img/sci_incentive_problem.png)
+
+## Prevailence of researchers' flexibility </br> 弹性研究操作的盛行 {data-background=#f2f6f5}
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-hgcj{font-weight:bold;text-align:center}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+
+<div style="overflow-x:auto;">
+<table class="tg">
+  <tr>
+    <th class="tg-hgcj">Hypothesis</th>
+    <th class="tg-hgcj">Design</th>
+    <th class="tg-hgcj">Collection</th>
+    <th class="tg-amwm">Analysis</th>
+    <th class="tg-amwm">Reporting</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><br>Vague hypotheses<br>Effect sizes of interest<br></td>
+    <td class="tg-0lax"><br>Multiple IVs<br>Multiple DVs<br>Measuring many vars <br>Multiple exclusion vars<br> (i.e., manipulation checks)<br>Sample size planning<br> (power analysis)<br></td>
+    <td class="tg-0lax"><br>Blinding<br>Random assignment<br>Dropping participants<br>Optional stopping<br></td>
+    <td class="tg-0lax"><br>Missing data handling<br>Data pre-processing<br>Dealing with stat. <br> assumption violation<br>Outlier handling<br>Selecting DVs<br>Selecting IVs<br>Selecting covariates<br>Selecting statistical models<br>Selecting inference criteria<br></td>
+    <td class="tg-0lax"><br>Selective outcome reporting<br>Selective reporting of studies<br>HARKing<br></td>
+  </tr>
+  </table>
+</div>
+
+<font size="4"> Source: [Cassandra Brandes](https://osf.io/h867e/), Northwestern U.</font>
+
+## “Positive” Results Increase Down the Hierarchy of the Sciences {data-background=#f2f6f5}
+
+![](./includes/img/journal.pone.0010068.g001.png){ width=45% }
+
+<font size="4"> Source:   [Fanelli(2010)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010068) </font>
+
+## Negative results are disappearing from most disciplines and countries
+
+![](./includes/img/Fenalli2012.png)
+
+<font size="4"> Source:  [Fanelli(2012)](https://doi.org/10.1007/s11192-011-0494-7) </font>
+
+
+## Sixty years of low-powered studies </br> 回顾一甲子社会与行为研究的检定力  {data-background=#f2f6f5}
+
+![](./includes/img/rsos160384f01.jpg){ width=70% }
+
+<font size="4"> Source:  [Smaldino and McElreath (2016)](https://doi.org/10.1098/rsos.160384) </font>
+
+
+## Two Explanations 两种可能的解释  {data-background=#f2f6f5}
+
+1. 心理学只能探讨有巨大效应量支持的假设
+2. 负面结果很难发表
+- 抽屉效应
+- p-hacking
+- 各种不良研究操作
+- 犞枉过正的评审过程
+
+<font size="4"> Source:  [Schijen, Scheel, and Lakens (2019)](https://osf.io/64d8u/) </font>
+
+
+# What is preregistration </br> 什么是预注册  {data-background=#f2f6f5}
+
+## {data-background=#f2f6f5}
+
+- A time-stamped document describing the details of the planned
+study. 含日期戳记，描述研究计划细节的文件。(Julia Rohrer osf.io/e4fja)
+
+- A document that states the plans for a study prior to 
+its completion. 研究完成前宣告计划细节的文件。(Cassandra Brandes osf.io/h867e/)
+
+## A research proposal is </br> 研究计划必定是 {data-background=#f2f6f5}
+
+>- Public 公开
+>- Static 稳定
+>- Time-stamped 可追溯
+
+![](./includes/img/preregistered_large_color.png)
+
+## 預註冊與註冊報告
+
+![](./includes/img/Pu2019.png)
+
+<font size="4"> Source:  [Pu, Zhu, Kay, and Conrad (2019)](https://osf.io/w5ked) </font>
+
+
+# How preregister </br> 如何预注册 {data-background=#f2f6f5}
+
+## Identify your purpose </br> 确认计画目的 {data-background=#f2f6f5}
+
+>- Delimilating flexibility 划出弹性操作的界限
+>- Increasing transparency 增加研究透明度
+>- Designing and implementing experiments 设计研究操作指南
+>- Educating preregistration and research 学习与教授研究方法
+
+<font size="4"> Source:  [Pu, Zhu, Kay, and Conrad (2019)](https://osf.io/w5ked) </font>
+
+## Compare preregistration formats </br> 
+
+![](./includes/img/prereg_format.png)
+
+<font size="4"> Source:  [Pu, Zhu, Kay, and Conrad (2019)](https://osf.io/w5ked) </font>
+
+# Introdution </br> 参与者自介 {data-background=#f2f6f5}
+
+# Recommended Steps </br> 建议步骤 {data-background=#f2f6f5}
+
+## State your priori hypothesis and confrimative analysis </br> 事前充分描述如何确证假设 {data-background=#f2f6f5}
+
+|[Chen et al.(2018, preprint)](https://psyarxiv.com/a3vwc/)|[Chen et al.(2019, preprint)](https://psyarxiv.com/t2pjv/)|
+|---|---|
+|大型物体的方向效应高于</br>小型物件的方向效应|任何英语系国家实验室</br>都能重现物件方向效应|
+|物体方向效应与心像旋转无关|语法特性与心像旋转无关|
+|方向效应效应量 d = 0.1|方向效应效应量 d = 0.1|
+
+## State your data-driven decisions </br> 事前充分描述如何探索资料 {data-background=#f2f6f5}
+
+|[Chen et al.(2018, preprint)](https://psyarxiv.com/a3vwc/)|[Chen et al.(2019, preprint)](https://psyarxiv.com/t2pjv/)|
+|---|---|
+|运用荟萃分析及混合线性模型</br>分析语言之间差异|运用混合线性模型</br>分析动词变化与方向效应的关联性|
+
+## Declare what you have to/have not to do </br> 宣告必须做/不能做的研究操作 {data-background=#f2f6f5}
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-88nc{font-weight:bold;border-color:inherit;text-align:center}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-mqa1{font-weight:bold;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<div style="overflow-x:auto;">
+<table class="tg">
+  <tr>
+    <th class="tg-88nc">Design</th>
+    <th class="tg-88nc">Collection</th>
+    <th class="tg-7btt">Analysis</th>
+    <th class="tg-mqa1">Reporting</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Define IVs<br>Define DVs<br>Define mediators <br>Rules for excluding variables<br>Reasonable sample size plan</td>
+    <td class="tg-0pky">Reproducible randomization<br>Criterion for dropping participants<br>Using sequential analysis<br></td>
+    <td class="tg-0pky">Plan to handle missing data<br>Generate the codebook by pilot<br>Backups for stat. assumption violation<br>Plan to handle outlier<br>Setup the model for selecting variables<br></td>
+    <td class="tg-73oq">Use preregistered plan <br>being your writing guide<br>Distinguish confirmation<br>and exploration<br></td>
+  </tr>
+</table>
+</div>
+
+# Code of Hackthon </br> 黑客原则 {data-background=#f2f6f5}
+
+## Pareto principle </br> 80/20法则 {data-background=#f2f6f5}
+
+>- Core of your project (20%) is up to 80% thinking stream for this project 
+>- 专案计划最核心的20%占据你为此付出的80%思考时间
+
+## Old School workshop </br> 常见的学术工作坊设计 {data-background=#f2f6f5} 
+
+![](./includes/img/Ratio_old.png)
+
+<font size="4"> Source: [Cassandra Brandes](https://osf.io/h867e/), Northwestern U.</font>
+
+## Open School workshop </br> 开放科学工作坊设计 {data-background=#f2f6f5} 
+
+![](./includes/img/Ratio_prereg.png)
+
+<font size="4"> Source: [Cassandra Brandes](https://osf.io/h867e/), Northwestern U.</font>
+
+## Schedule </br> 今日进程  {data-background=#f2f6f5} 
+
+>- Working 1 hours
+>- Mid-Term Debrief
+>- Tea Time 1.5 hours
+>- Working 1 ~ 2 hour
+>- Final Reports
+
+# Working Part 1 </br> 作业时间1 {data-background=#f2f6f5}
+
+# Mid-Term Debrief </br> 参与者中途报告 {data-background=#f2f6f5}
+
+# Working Part 2 </br> 作业时间2   {data-background=#f2f6f5}
+
+# Final Report </br> 参与者成果报告 {data-background=#f2f6f5}

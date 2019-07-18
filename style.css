@@ -1,0 +1,50 @@
+.reveal section img { 
+  background:none; 
+  border:none; 
+  box-shadow:none; 
+}
+
+.reveal h1 {
+  color: #93b5b3;
+  font-size: 18;
+}
+
+.reveal h2 {
+  color: #c8dad3;
+  text-align: left;
+  font-size: 16;
+}
+
+.reveal h3 {
+  color: #63707e;
+  text-align: left;
+  font-size: 9;
+}
+
+.reveal .slides {
+    text-align: left;
+}
+
+ .reveal p, .reveal ol, .reveal ul, .reveal li {
+  color: #63707e;
+  font-size: 12;
+}
+
+#left {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:20%;
+  z-index:-10;
+}
+
+#right {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: left;
+  z-index:-10;
+  width:80%;
+}
+/* focus point for presentation */
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://ani.cursors-4u.net/cursors/cur-13/cur1162.ani), url(http://ani.cursors-4u.net/cursors/cur-13/cur1162.png), auto !important;} /* End http://www.cursors-4u.com */
