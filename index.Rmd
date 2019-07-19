@@ -1,5 +1,5 @@
 ---
-title: "2019第一次线上预注册工作坊"
+title: "2019第一次线上预注册工作坊 Preregistration Workshop"
 output: 
   revealjs::revealjs_presentation:
     transition: none
@@ -18,8 +18,8 @@ theme: cerulean
 
 ## {data-background=#f2f6f5}
 
-- Broadcasting channel 网路直播网址
-- Code of Conduct 活动守则
+>- Broadcasting channel 网路直播网址: TBA
+>- Code of Conduct 活动守则
 
 # About me </br> 关于我  {data-background=#f2f6f5}
 
@@ -35,7 +35,7 @@ Sau-Chin Chen </br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Website11.png"  height="20" width="20"> [<small>scchen.com</small>](http://scchen.com)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
-<small>[Fork my slides on Github](https://github.com/SCgeeker/)</small>
+<small>[Fork my slides on Github](https://github.com/SCgeeker/Prereg_workshop)</small>
 
 ## Primary Source </br> 主要资讯来源 {data-background=#f2f6f5}
 
@@ -47,10 +47,10 @@ Sau-Chin Chen </br>
 
 ## {data-background=#f2f6f5}
 
-- 身为学术工作者，与生涯发展最有关系的论文内容是什么？
-  - 结果
-- 身为科研人员，研究论文的那个部分最不受控制？
-  - 结果
+- Which part of a research study do you believe is most important for advancing your career? 身为学术工作者，您认为与您的生涯发展最有关系的论文内容是什么？
+  - The results 结果
+-  Which part of a research study do you believe should be beyond your control as a scientist? 身为科研人员，您认为研究论文的那个部分最不受控制？
+  - The results 结果
 
 <font size="4"> Source: [Chris Chambers](https://osf.io/d4fh5/), Cardiff U.</font>
 
@@ -140,7 +140,7 @@ its completion. 研究完成前宣告计划细节的文件。(Cassandra Brandes 
 
 ![](./includes/img/preregistered_large_color.png)
 
-## 預註冊與註冊報告
+## Preregistration/Registered Report </br> 預註冊與註冊報告
 
 ![](./includes/img/Pu2019.png)
 
@@ -158,7 +158,7 @@ its completion. 研究完成前宣告计划细节的文件。(Cassandra Brandes 
 
 <font size="4"> Source:  [Pu, Zhu, Kay, and Conrad (2019)](https://osf.io/w5ked) </font>
 
-## Compare preregistration formats </br> 
+## Compare preregistration formats </br> 两种常见预注册格式
 
 ![](./includes/img/prereg_format.png)
 
@@ -205,7 +205,7 @@ its completion. 研究完成前宣告计划细节的文件。(Cassandra Brandes 
   <tr>
     <td class="tg-0pky">Define IVs<br>Define DVs<br>Define mediators <br>Rules for excluding variables<br>Reasonable sample size plan</td>
     <td class="tg-0pky">Reproducible randomization<br>Criterion for dropping participants<br>Using sequential analysis<br></td>
-    <td class="tg-0pky">Plan to handle missing data<br>Generate the codebook by pilot<br>Backups for stat. assumption violation<br>Plan to handle outlier<br>Setup the model for selecting variables<br></td>
+    <td class="tg-0pky">Plan to handle missing data<br>Plan to handle outlier<br>Generate the codebook since pilot<br>Backups for stat. assumption violation<br>Setup the model for selecting variables<br>Preregister the analytic code if possible </td>
     <td class="tg-73oq">Use preregistered plan <br>being your writing guide<br>Distinguish confirmation<br>and exploration<br></td>
   </tr>
 </table>
