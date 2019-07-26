@@ -18,8 +18,16 @@ theme: cerulean
 
 ## {data-background=#f2f6f5}
 
->- Broadcasting channel 网路直播网址: TBA
+>- Broadcasting channel 网路直播网址: [详见微信公告](https://mp.weixin.qq.com/s/FeBZZJAMQsGbQoezpZDy1g)
 >- Code of Conduct 活动守则
+
+## {data-background=#f2f6f5}
+
+- 旁听观众可在ZOOM聊天区提问讨论。发言请保持网路礼仪，请勿恶意灌水。
+- 协助人员请尽量在参与者明确请求口头咨询，再开啓麦克风交谈。作业时间尽量在OSF留言交流。
+- 参与者可和协助人员交换微信帐号，做为作业时间备用交流平台。旁听观众请勿透过微信私讯或微信群打扰参与者作业。
+- 参与者在作业时间可视个人状态稍做休息，只要预定时间结束前完成设定的目标。
+- 一位参与者闪电报告限时五分鈡，时间到立即静音。
 
 # About me </br> 关于我  {data-background=#f2f6f5}
 
@@ -49,7 +57,7 @@ Sau-Chin Chen </br>
 
 - Which part of a research study do you believe is most important for advancing your career? 身为学术工作者，您认为与您的生涯发展最有关系的论文内容是什么？
   - The results 结果
--  Which part of a research study do you believe should be beyond your control as a scientist? 身为科研人员，您认为研究论文的那个部分最不受控制？
+- Which part of a research study do you believe should be beyond your control as a scientist? 身为科研人员，您认为研究论文的那个部分最不受控制？
   - The results 结果
 
 <font size="4"> Source: [Chris Chambers](https://osf.io/d4fh5/), Cardiff U.</font>
@@ -233,10 +241,11 @@ its completion. 研究完成前宣告计划细节的文件。(Cassandra Brandes 
 ## Schedule </br> 今日进程  {data-background=#f2f6f5} 
 
 >- Working 1 hours
->- Mid-Term Debrief
 >- Tea Time 1.5 hours
+>- Mid-Term Lightning Talk: 15 minutes
 >- Working 1 ~ 2 hour
->- Final Reports
+>- Final Report: 30 minutes
+>- Ending
 
 # Working Part 1 </br> 作业时间1 {data-background=#f2f6f5}
 
@@ -245,3 +254,10 @@ its completion. 研究完成前宣告计划细节的文件。(Cassandra Brandes 
 # Working Part 2 </br> 作业时间2   {data-background=#f2f6f5}
 
 # Final Report </br> 参与者成果报告 {data-background=#f2f6f5}
+
+# End: Just first step <br> 结尾：只是第一步 {data-background=#f2f6f5}
+
+## 7 Steps to Open <br> 七步开放操作  {data-background=#f2f6f5}
+
+- [Flyer](https://osf.io/hktmf/) by NOSI
+- [scienceverse package](https://scienceverse.github.io/scienceverse/)
