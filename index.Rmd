@@ -152,7 +152,9 @@ its completion. 研究完成前宣告计划细节的文件。(Cassandra Brandes 
 
 ![](./includes/img/Pu2019.png)
 
-<font size="4"> Source:  [Pu, Zhu, Kay, and Conrad (2019)](https://osf.io/w5ked) </font>
+<font size="4"> Source:  [Pu, Zhu, Kay, and Conrad (2019)](https://osf.io/w5ked) </font> <br>
+<br>
+[Tracking Registered Report Journals](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/notify/show?rev=2705&fromRev=2693&s=AM5m-fiZkYInmHS2H_PGqACz34fIdgJ2sQ&usp=gmail)注册报告期刊讯息更新
 
 
 # How preregister </br> 如何预注册 {data-background=#f2f6f5}
@@ -171,6 +173,8 @@ its completion. 研究完成前宣告计划细节的文件。(Cassandra Brandes 
 ![](./includes/img/prereg_format.png)
 
 <font size="4"> Source:  [Pu, Zhu, Kay, and Conrad (2019)](https://osf.io/w5ked) </font>
+
+
 
 # Introdution </br> 参与者自介 {data-background=#f2f6f5}
 
@@ -240,12 +244,13 @@ its completion. 研究完成前宣告计划细节的文件。(Cassandra Brandes 
 
 ## Schedule </br> 今日进程  {data-background=#f2f6f5} 
 
->- Working 1 hours
->- Tea Time 1.5 hours
->- Mid-Term Lightning Talk: 15 minutes
->- Working 1 ~ 2 hour
->- Final Report: 30 minutes
->- Ending
+|Working 1 hours | 作业约1小时：设定假设与探索方向 |
+|:---:|:---:|
+| Lunch 1.5 hours | 午饭休息 |
+| Mid-Term Lightning Talk: 15 minutes| 上午作业闪电报告 |
+| Working 1 ~ 2 hour | 作业约2小时：设定分析方法及判断标准 |
+| Final Report: 30 minutes | 结案报告 |
+| Ending | 结束讨论交流 |
 
 # Working Part 1 </br> 作业时间1 {data-background=#f2f6f5}
 
